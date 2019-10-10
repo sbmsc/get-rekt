@@ -1,6 +1,6 @@
 # Get-Rekt
 A basic game developed on VueJS
-## Installation	## Installation
+## Installation
 	
 ```
 $ git clone https://www.github.com/sbmsc/get-rekt

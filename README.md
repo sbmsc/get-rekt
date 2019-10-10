@@ -5,8 +5,8 @@ A basic game developed on VueJS
 ```
 $ git clone https://www.github.com/sbmsc/get-rekt
 $ git clone https://www.github.com/sbmsc/get-rekt
-$ cd get-rekt	$ cd get-rekt
-$ ./index.html	$ ./index.html
+$ cd get-rekt
+$ ./index.html
 ```
 
 Objective is simple. Just win the game.	Objective is simple. Just win the game.

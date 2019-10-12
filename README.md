@@ -1,6 +1,12 @@
-# get-rekt
-A basic game developed on vuejs
+# Get-Rekt
+A basic game developed on VueJS
+## Installation
+	
+```
+$ git clone https://www.github.com/sbmsc/get-rekt
+$ git clone https://www.github.com/sbmsc/get-rekt
+$ cd get-rekt
+$ ./index.html
+```
 
-Simply clone the repository and open the index.html file.
-
-Objective is simple. Just win the game.
+Objective is simple. Just win the game.	Objective is simple. Just win the game.
